@@ -1,5 +1,7 @@
 #!/bin/bash
 
+clear
+
 echo "The script only can be used on Ubuntu 18.04.4LTS"
 echo "So, make sure your OS is it"
 echo "Here are your OS version:"
